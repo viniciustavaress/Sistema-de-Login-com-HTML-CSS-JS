@@ -100,40 +100,6 @@ input[type="submit"]:hover{
   background: #f54f53;
 }
 
-.link{
-  position: absolute;
-  background: #e1eaeb;
-  color: #7f7c7c;
-  left: 0px;
-  height: 20px;
-  width: 440px;
-  padding: 17px 30px 20px 30px;
-  font-size: 16px;
-  text-align: right;
-  border-top: 1px solid #dbe5e8;
-
-  
-}
-.link a {
-  font-weight: bold;
-  background: #f7f8f1;
-  padding: 6px;
-  color: rgb(29, 162, 193);
-  margin-left: 10px;
-  border: 1px solid #cbd518;
-
-  -webkit-border-radius: 4px;
-  border-radius: 4px;  
-
-  -webkit-transition: all 0.4s linear;
-  transition: all 0.4s  linear;
-}
-.link a:hover {
-  color: #39bfd7;
-  background: #f7f7f7;
-  border: 1px solid #4ab3c6;
-}
-
 
 #login{
   position: absolute;
