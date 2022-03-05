@@ -100,7 +100,7 @@ input[type="submit"]{
   transition: all 0.2s linear;
 }
 input[type="submit"]:hover{
-  background: #4ab3c6;
+  background: #f54f53;
 }
 
 .link{
